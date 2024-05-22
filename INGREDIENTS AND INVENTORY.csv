@@ -1,0 +1,19 @@
+INGREDIENTS,Initial Quantity,Used Quantity,waste quantity,expired ingredients,Remaining quantity,Threshold,Low Stock Alert
+Buns,302,82,51,11,158,50,FALSE
+Ketchup,470,125,92,29,224,70,FALSE
+Mustard,306,107,14,5,180,64,FALSE
+Pickles,271,71,71,1,128,90,TRUE
+Cheese,388,138,20,20,210,60,FALSE
+Tomatoes,220,98,82,0,40,70,TRUE
+Salad,302,140,74,11,77,50,TRUE
+Onions,321,108,74,21,118,45,TRUE
+Chicken,414,91,87,24,212,55,FALSE
+Beef,287,141,116,16,14,45,TRUE
+Vege,299,109,99,26,65,50,TRUE
+Salsa,351,129,103,27,92,65,TRUE
+Sundae Ice Cream,330,64,23,15,228,53,FALSE
+Oreo Pieces,349,111,2,14,222,80,FALSE
+KitKat Pieces,457,111,21,43,282,90,FALSE
+Black Coffee,493,96,52,2,343,85,FALSE
+Hot Water,391,111,1,36,243,51,FALSE
+Deep Oil,476,100,87,6,283,40,FALSE
